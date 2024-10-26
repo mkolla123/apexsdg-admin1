@@ -10,10 +10,10 @@ import pandas as pd
 #from sqlalchemy.ext.declarative import declarative_base
 
 db_config = {
-    'host': '127.0.0.1',
-    'user': 'test1',
-    'password': 'test1',
-    'database': 'apexsdg',
+    'host': 'srv1118.hstgr.io',
+    'user': 'u829120591_bV3z1',
+    'password': 'u829120591_bV3z1U',
+    'database': 'u829120591_4XuUf',
 }
 
 conn = mysql.connector.connect(**db_config)
